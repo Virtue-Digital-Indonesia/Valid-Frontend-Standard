@@ -10,8 +10,8 @@ assignees: ''
 (Note: please use this issue for only one idea.)
 (If you want to submit another idea, please open another issue.)
 
-## Ideas
-(Please describe the idea in detail condition here.)
+## Idea
+(Please describe the detail of the idea here.)
 (It's better to include some pictures with explanations.)
 
 ## Resources
