@@ -15,4 +15,4 @@ assignees: ''
 (It's better to include some pictures with explanations.)
 
 ## Resources
-(Please mention your idea resources here. It could be a link.)
+(Please mention your idea resources here if any. It could be a link.)
